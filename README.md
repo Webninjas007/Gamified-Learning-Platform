@@ -7,4 +7,4 @@ Web Ninjas
 
 ## Team Members:
 - Sadiqa Tazmeen
-- Sumaiya Sultana
+- Sumaiya Sultana <br>
